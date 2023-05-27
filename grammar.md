@@ -91,3 +91,10 @@ Where:
 → `beta`  
 → `delta`  
 → `omega`
+
+## Field
+
+→ `name`  
+→ `gender`  
+→ `weight`  
+→ `status`
